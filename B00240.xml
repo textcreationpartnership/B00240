@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A merry iest of Iohn Tomson, and Iakaman his vvife: vvhose iealousie was justly, the cause all their strife. To the tune of Pegge of Ramsey.</title>
+            <author>M. L., fl. 1637.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00240</idno>
+            <idno type="STC">STC 15108</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[254]</idno>
+            <idno type="EEBO-CITATION">99892194</idno>
+            <idno type="PROQUEST">ocm99892194</idno>
+            <idno type="VID">183052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183052)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[136])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A merry iest of Iohn Tomson, and Iakaman his vvife: vvhose iealousie was justly, the cause all their strife. To the tune of Pegge of Ramsey.</title>
+                  <author>M. L., fl. 1637.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For Edward Wright,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1637]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Signed: M.L.</note>
+                  <note>Verse: "VVhen I was a batchelour ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="254" facs="tcp:183052:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <l>A merry Ieſt of <hi>Iohn Tomſon,</hi> and <hi>Iakaman</hi> his VVife:</l>
+               <l>VVhoſe Iealouſie was juſtly, the cauſe all their ſtrife.</l>
+            </head>
+            <opener>To the Tune of <hi>Pegge of Ramſey.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>WHen I was a Batchelour</l>
+                  <l>I liu'd a merry life:</l>
+                  <l>But now I am a married man,</l>
+                  <l>and troubled with a wife,</l>
+                  <l>I cannot doe as I haue done,</l>
+                  <l>becauſe I liue in feare:</l>
+                  <l>If I goe but to <hi>Iſlington,</hi>
+                  </l>
+                  <l>my wife is watching there.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow Hoſe againe,</hi>
+                     </l>
+                     <l>
+                        <hi>give me my yellow hoſe:</hi>
+                     </l>
+                     <l>
+                        <hi>For now my wife ſhe watcheth me,</hi>
+                     </l>
+                     <l>
+                        <hi>ſee yonder where ſhe goes.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But when I was a prentice bound,</l>
+                  <l>and my Indentures made:</l>
+                  <l>In many faults I haue beene found,</l>
+                  <l>yet neuer thus afraid.</l>
+                  <l>For if I chance now by the way,</l>
+                  <l>a woman for to kiſſe:</l>
+                  <l>The reſt are ready for to ſay,</l>
+                  <l>thy wife ſhall know of this.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Thus when I come in company,</l>
+                  <l>I paſſe my mirth in feare:</l>
+                  <l>For one or other merrily,</l>
+                  <l>will ſay my wife is there.</l>
+                  <l>And then my look dooth make them laugh,</l>
+                  <l>to ſee my wofull caſe:</l>
+                  <l>How I ſtand like <hi>Iohn</hi> hold my ſtaffe,</l>
+                  <l>and dare not ſhew my face.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then comes a handſome woman in,</l>
+                  <l>and ſhakes me by the hand:</l>
+                  <l>But how my wife ſhe did begin,</l>
+                  <l>now you ſhall vnderſtand.</l>
+                  <l>Faire dame (quoth ſhe) why doſt thou ſo,</l>
+                  <l>he gaue his hand to me:</l>
+                  <l>And thou ſhalt know before thou goe,</l>
+                  <l>he is no man for thee.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Good wife (quoth ſhe) now doe not ſcould,</l>
+                  <l>I will doe ſo no more:</l>
+                  <l>I thought I might haue beene ſo bolde,</l>
+                  <l>I knowing him before,</l>
+                  <l>With that my wife was almoſt mad,</l>
+                  <l>yet many did intreat her:</l>
+                  <l>And I, God knowes, was very ſad,</l>
+                  <l>for feare ſhe would haue beat her.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Thus marriage is an enterpriſe,</l>
+                  <l>Experience doth ſhow:</l>
+                  <l>But ſcolding is an exerciſe,</l>
+                  <l>that married men doe know.</l>
+                  <l>For all this while there was no blowes,</l>
+                  <l>yet ſtill their tongues was talking:</l>
+                  <l>And very faine would yellow hoſe,</l>
+                  <l>haue had her fiſts a walking.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>In comes a neighbour of our towne,</l>
+                  <l>an honeſt man, God woe:</l>
+                  <l>And he muſt needes goe ſit him downe,</l>
+                  <l>and call in for his pot.</l>
+                  <l>And ſaid to me, I am the man,</l>
+                  <l>which gaue to you your wife:</l>
+                  <l>And I will doe the beſt I can,</l>
+                  <l>to mend this wicked life.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe againe,</hi>
+                     </l>
+                     <l>
+                        <hi>give me my yellow hoſe:</hi>
+                     </l>
+                     <l>
+                        <hi>For now my wife ſhe watcheth me,</hi>
+                     </l>
+                     <l>
+                        <hi>ſee yonder where ſhe goes,</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="255" facs="tcp:183052:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 10 -->
+               <head>The ſecond Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>I</hi> Gaue him thankes, and had him goe,</l>
+                  <l>and ſo he did indeed:</l>
+                  <l>And told my wife ſhe was a ſhrow,</l>
+                  <l>but that was more then need.</l>
+                  <l>Saith he thou haſt an honeſt man,</l>
+                  <l>and one that loues thee well:</l>
+                  <l>Said ſhe you are a foole good ſir,</l>
+                  <l>Its more then you can tell.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And yet in truth he loueth me,</l>
+                  <l>but many more beſide:</l>
+                  <l>And I may ſay good ſir to thee,</l>
+                  <l>that cannot I abide.</l>
+                  <l>For though he loues me as his life,</l>
+                  <l>yet now ſir wot you what:</l>
+                  <l>They ſay he loues his neighbours wife,</l>
+                  <l>I pray you how like you that</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Saith he I hope I neuer ſhall,</l>
+                  <l>ſeeke fancy fond to follow:</l>
+                  <l>For loue is lawfull vnto all,</l>
+                  <l>except it be too yellow.</l>
+                  <l>Which lyeth like the Iaundies ſo,</l>
+                  <l>In theſe our womens faces:</l>
+                  <l>That w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tch their huſbands where they go,</l>
+                  <l>and hunt them out in places.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Now comes my Neighbours wife apace,</l>
+                  <l>to talke a wo<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d or two:</l>
+                  <l>My wife then meets her face to face,</l>
+                  <l>and ſaith dame is it you,</l>
+                  <l>That makes ſo much of my good man,</l>
+                  <l>as if he were your owne?</l>
+                  <l>Then clamp as cloſely as you can,</l>
+                  <l>I know it will be knowne.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Now when I ſaw the woman gone,</l>
+                  <l>I call'd my wife aſide,</l>
+                  <l>And ſaid why art thou ſuch a one,</l>
+                  <l>that thou canſt not abide</l>
+                  <l>A woman for to talke with mée,</l>
+                  <l>this is a wofull caſe:</l>
+                  <l>That I muſt ke<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pe no company,</l>
+                  <l>except you be in place.</l>
+               </lg>
+               <lg>
+                  <l>This maketh Batchelers to wooe,</l>
+                  <l>ſo long before they wed:</l>
+                  <l>Becauſe they heare that women now,</l>
+                  <l>will be their Huſbands head,</l>
+                  <l>And ſeuen yeare long I taried,</l>
+                  <l>for <hi>lakaman</hi> my wife:</l>
+                  <l>But now that I am married,</l>
+                  <l>I am weary of my life.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>For yellow loue is too too bad,</l>
+                  <l>without all w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e or pollicie:</l>
+                  <l>And too much loue hath made her mad,</l>
+                  <l>and fill'd her full of Ielouſie.</l>
+                  <l>Shee thinkes I am in loue with thoſe,</l>
+                  <l>I <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>peake to paſſing by:</l>
+                  <l>That makes her weare the yellow hoſe,</l>
+                  <l>I gaue her for to dye.</l>
+                  <l>
+                     <hi>Give me my yellow hoſe, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But now I ſée ſhee is ſo hot,</l>
+                  <l>and liues ſo much at eaſe:</l>
+                  <l>I will goe get a Souldiers coate,</l>
+                  <l>and ſayle beyond the Seas:</l>
+                  <l>To ſ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rue my Captaine where and whan,</l>
+                  <l>though it be to my paine:</l>
+                  <l>Thus farewell gentle <hi>Iakaman,</hi>
+                  </l>
+                  <l>till we two méet againe.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Giue me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Quoth ſhe good husband doe not deale,</l>
+                  <l>thus hardly now with me,</l>
+                  <l>And of a truth I will reveale,</l>
+                  <l>my cauſe of jealouſie:</l>
+                  <l>You know I alwaies paid the ſcore,</l>
+                  <l>you put me ſtill in truſt:</l>
+                  <l>I ſaued twenty pound and more,</l>
+                  <l>confeſſe it needes I muſt.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But now my ſaving of the ſame,</l>
+                  <l>For ought that I doe know:</l>
+                  <l>Made Ielouſie to fixe her frame,</l>
+                  <l>to weaue this web of woe:</l>
+                  <l>And thus this fooliſh loue of mine,</l>
+                  <l>was very fondly bent:</l>
+                  <l>But now my gold and goods are thine,</l>
+                  <l>good huſband be content.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And thus to leade my life a new,</l>
+                  <l>I finly now purpoſe:</l>
+                  <l>That thou maiſt change thy coat of blew,</l>
+                  <l>and I my yellow hoſe.</l>
+                  <l>This being done our Countrey wiues</l>
+                  <l>may warning take by me,</l>
+                  <l>How they doe liue ſuch jealous liues,</l>
+                  <l>as I haue done with thee.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give me my yellow hoſe againe,</hi>
+                     </l>
+                     <l>
+                        <hi>give me my yellow hoſe:</hi>
+                     </l>
+                     <l>
+                        <hi>For now my wiſe ſhee watcheth me,</hi>
+                     </l>
+                     <l>
+                        <hi>ſee yonder where ſhe goes.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <closer>
+               <signed>M. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for <hi>Edward Wright.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
